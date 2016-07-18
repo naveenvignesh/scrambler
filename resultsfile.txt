@@ -1,0 +1,13 @@
+runse script run started on Mon Nov 23 23:49:24 2015
+run on machine eecad3.engr.sjsu.edu
+
+Run with a clock period of 4.0
+student names
+  Naveen Vignesh Boopathy  3386
+  Munmun Islam  0351
+options syn False gates False
+VCS simulation worked
+NCverilog simulation worked
+Synthesis finished OK
+Gate level simulation worked
+Completed the se run for team 8
